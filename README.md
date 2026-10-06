@@ -24,8 +24,6 @@ O projeto contém:
 
 -Header fixo (sticky) com efeito de vidro fosco (Glassmorphism) e logo com texto em gradiente;
 
--Artigo em destaque sobre IA com detalhes expansíveis (<details> / <summary>);
-
 -Seção de vídeo incorporado (<iframe>) com integração do YouTube;
 
 -Formulário de Newsletter responsivo com seletores, caixa de seleção e botões estilizados;
